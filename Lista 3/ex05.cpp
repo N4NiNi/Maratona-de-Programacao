@@ -1,6 +1,7 @@
 #include <iostream>
 #include <map>
 
+
 int main() {
     int n;
     int voto;
